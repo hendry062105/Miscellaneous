@@ -1,0 +1,10 @@
+Pedro; 1.75;
+Maria; 1.60;
+Juan Jose; 1.80;
+Mario; 1.48;
+Jose; 1.57;
+Amanda; 1.55;
+Silvia; 1.51;
+Carlos; 1.53;
+Carla; 1.59
+
